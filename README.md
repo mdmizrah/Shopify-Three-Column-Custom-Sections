@@ -1,1 +1,1 @@
-# Shopify-Custom-Sections
+# Shopify-three-column-Custom-Sections
